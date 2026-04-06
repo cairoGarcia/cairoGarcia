@@ -1,1 +1,1 @@
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/cairoGarcia?cardType=octocat&theme=tokyonight&fontFamily=Comic%20Mono&showIcons=false&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/cairoGarcia?cardType=level&theme=tokyonight&fontFamily=Comic%20Mono&showIcons=false&preferLogin=false)](https://git.io/awesome-stats-card)
