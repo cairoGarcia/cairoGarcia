@@ -1,1 +1,1 @@
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/cairoGarcia?cardType=octocat&theme=tokyonight&fontFamily=Comic%20Mono&showIcons=false&preferLogin=false)](https://git.io/awesome-stats-card)
